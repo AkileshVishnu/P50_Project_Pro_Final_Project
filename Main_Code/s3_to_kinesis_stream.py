@@ -6,8 +6,8 @@ from time import sleep
 from datetime import datetime
 
 # AWS SDK Local Configuration
-aws_access_key_id = "AKIAT4JST4ZIIJSRUKNI"
-aws_secret_access_key = "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"
+aws_access_key_id = "1234"
+aws_secret_access_key = "****"
 region_name = "us-east-2"
 
 # Create S3 Client with Custom Credentials
