@@ -1,0 +1,14 @@
+Project Requirements and Guidelines:
+
+https://docs.google.com/document/d/1mlgOaEDlHgjJx5HR3k0sV4YPe2IG9R0gbAWBW7SDo2w/edit
+
+==============================================================================
+
+Dataset Link:
+
+https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15/discussion?datasetId=111554&sortBy=voteCount&select=NUSW-NB15_features.csv
+
+==============================================================================
+
+
+

@@ -1,0 +1,1 @@
+ssh -i ./AWS-Akilesh-Instance.pem hadoop@ec2-18-220-55-235.us-east-2.compute.amazonaws.com
